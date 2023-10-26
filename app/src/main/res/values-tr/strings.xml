@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DesignWorkOfAndroidBootcamp</string>
+    <string name="pizzaTitle">Etli Peynir</string>
+    <string name="cheeseText">Peynir</string>
+    <string name="sausageText">Sucuk</string>
+    <string name="oliveText">Zeytin</string>
+    <string name="pepperText">Biber</string>
+    <string name="deliveryTimeText">20 dk</string>
+    <string name="deliveryTitleText">Teslimat</string>
+    <string name="pizzaExplainText">Et sever, pizzanla tanışmaya hazırlan!</string>
+    <string name="priceText">1425₺</string>
+    <string name="buttonText">Sepete Ekle</string>
+</resources>
