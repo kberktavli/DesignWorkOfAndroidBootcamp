@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DesignWorkOfAndroidBootcamp</string>
+    <string name="app_name">Pizza</string>
     <string name="pizzaTitle">Beef Cheese</string>
     <string name="cheeseText">Cheese</string>
     <string name="sausageText">Sausage</string>
